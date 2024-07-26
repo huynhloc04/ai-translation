@@ -13,8 +13,8 @@
 - Different contexts will give different translation results based on the context provided.
 - Users can give feedbacks for better translation results
 
-## 3 Tech stacks
-FastAPI, PostgreSQL, Docker, AWS Ec2, DeepL, Langchain, OpenAI, Mistral model, Ngrok, Git, ...
+## 3. Tech stacks
+FastAPI, PostgreSQL, Docker, AWS EC2, DeepL, Langchain, OpenAI, Mistral model, Ngrok, Git, ...
 
 ## 4. Run the app
 
